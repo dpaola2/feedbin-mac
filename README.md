@@ -2,7 +2,7 @@
 
 MacOS application for FeedBin, built with [Multi](https://github.com/hkgumbs/multi)
 
-
+![](screenshot.png)
 
 # Download
 
